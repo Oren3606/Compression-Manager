@@ -1,2 +1,4 @@
+# exclude .idea settings
 /.idea/
-/venv
+# exclude virtual enviroment setup
+/venv/
