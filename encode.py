@@ -14,10 +14,6 @@ def uc_zip(file):
     # 1.  huffman coding
     from collections import defaultdict
     byte_freq = defaultdict()
-    for byte in file:
-
-    while bytes:
-        bytes = file.read(1)
 
 
 def uc_rar(file):
