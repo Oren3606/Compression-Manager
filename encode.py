@@ -51,10 +51,6 @@ def uc_dmg(file):
     pass
 
 
-def uc_jar(file):
-    pass
-
-
 def uc_cab(file):
     pass
 
