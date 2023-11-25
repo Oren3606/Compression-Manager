@@ -11,9 +11,14 @@ apk:
 
 
 def uc_zip(file):
-    # 1.  huffman coding
+    """ 1.  huffman coding"""
     from collections import defaultdict
     byte_freq = defaultdict()
+    for byte in file.read():
+        byte_freq[byte] += 1
+    # sort from most to least common
+    for pos, item in enumerate(byte_freq):
+        pass
 
 
 def uc_rar(file):
