@@ -2,6 +2,7 @@
 default compression parameters:
 zip:
 rar:
+jar:
 iso:
 tar:
 gz:
@@ -16,14 +17,14 @@ def uc_zip(file):
     byte_freq = defaultdict()
     for byte in file.read():
         byte_freq[byte] += 1
-    # sort from most to least common
-    for pos, item in enumerate(byte_freq):
-        pass
 
 
 def uc_rar(file):
     pass
 
+
+def uc_jar(file):
+    pass
 
 def uc_iso(file):
     pass
