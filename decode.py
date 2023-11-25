@@ -26,17 +26,5 @@ def uc_7z(file):
     pass
 
 
-def uc_apk(file):
-    pass
-
-
-def uc_dmg(file):
-    pass
-
-
-def uc_cab(file):
-    pass
-
-
 def uc_exe(file):
     pass
