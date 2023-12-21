@@ -4,6 +4,7 @@ api
 
 # imports
 from os import path, scandir
+from json import load
 
 # todo: handle launch either from CLI or from GUI
 mode = bool  # compress or uncompress: True for compression, False for decompression
