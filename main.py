@@ -12,6 +12,8 @@ from json import load
 mode = bool  # compress or uncompress: True for compression, False for decompression
 directory = scandir(None)  # dir location, todo: get from launch
 
+# todo: check all settings exist, else add defaults
+
 if mode:
     from os import scandir
 
