@@ -1,5 +1,6 @@
 {
   "zip": {
-    "compression_method": ""
+    "compression_method": "DEFLATE",
+    "encryption": "probably wont be used"
   }
 }
