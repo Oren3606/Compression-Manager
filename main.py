@@ -10,7 +10,7 @@ from json import load
 # with open("settings.json") as settings_file:
 #    settings = load(settings_file)
 mode = bool  # compress or uncompress: True for compression, False for decompression
-#directory = scandir(None)  # dir location, todo: get from launch
+# directory = scandir(None)  # dir location, todo: get from launch
 
 # todo: check all settings exist, else add defaults
 # todo instead of this if block, import decode OR encode which will have corresponding imports?
