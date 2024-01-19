@@ -1,30 +1,30 @@
-def uc_zip(file):
+def zip(file):
     pass
 
 
-def uc_rar(file):
+def rar(file):
     pass
 
 
-def uc_jar(file):
+def jar(file):
     pass
 
 
-def uc_iso(file):
+def iso(file):
     pass
 
 
-def uc_tar(file):
+def tar(file):
     pass
 
 
-def uc_gz(file):
+def gz(file):
     pass
 
 
-def uc_7z(file):
+def seven_z(file):
     pass
 
 
-def uc_exe(file):
+def exe(file):
     pass
