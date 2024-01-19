@@ -10,47 +10,47 @@ apk:
 """
 
 
-def uc_zip(file):
+def zip(file):
     # 1.  huffman coding
     from collections import defaultdict
     byte_freq = defaultdict()
 
 
-def uc_rar(file):
+def rar(file):
     pass
 
 
-def uc_iso(file):
+def iso(file):
     pass
 
 
-def uc_tar(file):
+def tar(file):
     pass
 
 
-def uc_gz(file):
+def gz(file):
     pass
 
 
-def uc_7z(file):
+def seven_z(file):
     pass
 
 
-def uc_apk(file):
+def apk(file):
     pass
 
 
-def uc_dmg(file):
+def dmg(file):
     pass
 
 
-def uc_jar(file):
+def jar(file):
     pass
 
 
-def uc_cab(file):
+def cab(file):
     pass
 
 
-def uc_exe(file):
+def exe(file):
     pass
