@@ -1,5 +1,6 @@
 def uc_zip(file):
-    pass
+    class HuffmanCoding:
+        file = 234
 
 
 def uc_rar(file):
