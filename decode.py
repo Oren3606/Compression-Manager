@@ -1,31 +1,30 @@
-def uc_zip(file):
-    class HuffmanCoding:
-        file = 234
-
-
-def uc_rar(file):
+def zip(file):
     pass
 
 
-def uc_jar(file):
+def rar(file):
     pass
 
 
-def uc_iso(file):
+def jar(file):
     pass
 
 
-def uc_tar(file):
+def iso(file):
     pass
 
 
-def uc_gz(file):
+def tar(file):
     pass
 
 
-def uc_7z(file):
+def gz(file):
     pass
 
 
-def uc_exe(file):
+def seven_z(file):
+    pass
+
+
+def exe(file):
     pass

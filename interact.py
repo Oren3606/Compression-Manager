@@ -4,6 +4,6 @@ api
 
 # basic skeleton for GUI interaction
 
-from tkinter import *
+from tkinter import filedialog
 
-interaction = Tk()
+interaction = filedialog.Directory().show()
